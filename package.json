@@ -1,0 +1,34 @@
+{
+  "name": "clashhq",
+  "version": "0.0.1-phase0",
+  "description": "Self-hosted Clash of Clans clan management app — Phase 0 tooling",
+  "private": true,
+  "engines": {
+    "node": ">=24.0.0 <25.0.0"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "vitest run",
+    "test:sanitizer": "vitest run tests/sanitizer.test.ts",
+    "test:registry": "vitest run tests/registry-consistency.test.ts",
+    "typecheck": "tsc --noEmit",
+    "build:scripts": "tsc -p tsconfig.json",
+    "capture": "tsc -p tsconfig.json && node dist/scripts/capture-fixtures.js",
+    "lint": "echo 'Lint not yet configured (Phase 1)'",
+    "build": "echo 'Build not yet configured (Phase 1)'",
+    "start": "echo 'Start not yet configured (Phase 1)'"
+  },
+  "dependencies": {
+    "zod": "^3.23.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "typescript": "^5.5.0",
+    "vitest": "^2.0.0"
+  },
+  "notes": {
+    "phase0-scope": "Phase 0 installs only the tooling needed for the capability registry, Zod validation, and sanitizer tests. Fastify, better-sqlite3, Drizzle ORM, React, Vite, ESLint, Prettier, and Playwright are Phase 1 and later.",
+    "better-sqlite3": "Pre-built binary check for Node 24 on Windows/macOS/Linux to be verified in Phase 1 before locking the dependency (spec §3).",
+    "node-pin": "Node 24 LTS pinned in .nvmrc, engines field, Dockerfile (Phase 1), and CI (Phase 1). Do not target EOL Node releases."
+  }
+}

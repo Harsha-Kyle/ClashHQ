@@ -1,0 +1,578 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "registryVersion": "1.0.0",
+  "specVersion": "v10",
+  "generatedAt": "2026-10-20T00:00:00Z",
+  "note": "All capabilities are unverified until the human runs the capture script and approves evidence. Do not mark any capability verified without real capture evidence.",
+  "capabilities": [
+    {
+      "id": "clan-info",
+      "endpoint": "GET /clans/{clanTag}",
+      "description": "Clan profile: name, tag, badge, description, member count, war league, war frequency, war wins/losses/draws, location, labels, capital hall level, clan level, points.",
+      "status": "field_observed",
+      "currentOnly": true,
+      "eventDetail": false,
+      "historical": false,
+      "availabilityWindow": "unknown — to be verified",
+      "recoverabilityAfterMissedSync": "current state only; historical snapshots depend on capture frequency",
+      "requiredFields": [
+        "tag",
+        "name",
+        "members",
+        "memberList"
+      ],
+      "optionalFields": [
+        "warLeague",
+        "warFrequency",
+        "warWins",
+        "warLosses",
+        "warTies",
+        "location",
+        "labels",
+        "clanCapital",
+        "clanLevel"
+      ],
+      "dependentFeatures": [
+        "clan-dashboard",
+        "clan-overview",
+        "member-list-snapshot"
+      ],
+      "verificationEvidence": {
+        "docRef": "https://developer.clashofclans.com/api-docs/index.html — /clans/{clanTag}",
+        "captureDate": "2026-10-21T10:17:43.394Z",
+        "fieldObserved": true,
+        "behaviourVerified": false,
+        "testId": null
+      },
+      "fallback": "disabled",
+      "fallbackDetail": "Clan cannot be tracked without this endpoint.",
+      "freshnessThresholdMinutes": 60,
+      "allowPartialAcceptance": false
+    },
+    {
+      "id": "clan-members",
+      "endpoint": "GET /clans/{clanTag}/members",
+      "description": "Paginated member list with tag, name, role, expLevel, league, trophies, versusTrophies, clanRank, previousClanRank, donations, donationsReceived, townHallLevel, playerHouse.",
+      "status": "field_observed",
+      "currentOnly": true,
+      "eventDetail": false,
+      "historical": false,
+      "availabilityWindow": "current state only",
+      "recoverabilityAfterMissedSync": "not recoverable; join/leave events between syncs are lost",
+      "requiredFields": [
+        "tag",
+        "name",
+        "role",
+        "townHallLevel",
+        "trophies",
+        "donations",
+        "donationsReceived"
+      ],
+      "optionalFields": [
+        "league",
+        "versusTrophies",
+        "clanRank",
+        "previousClanRank",
+        "expLevel",
+        "playerHouse"
+      ],
+      "dependentFeatures": [
+        "member-list-snapshot",
+        "join-leave-inference",
+        "member-tracker",
+        "phase1-vertical-slice"
+      ],
+      "verificationEvidence": {
+        "docRef": "https://developer.clashofclans.com/api-docs/index.html — /clans/{clanTag}/members",
+        "captureDate": "2026-10-21T10:17:43.394Z",
+        "fieldObserved": true,
+        "behaviourVerified": false,
+        "testId": null
+      },
+      "fallback": "disabled",
+      "fallbackDetail": "Member tracking is impossible without this endpoint. The Phase 1 vertical slice depends on this capability reaching at least field_observed.",
+      "freshnessThresholdMinutes": 60,
+      "allowPartialAcceptance": true,
+      "partialAcceptanceNote": "Individual member records failing Zod validation may be stored as partial if the top-level list is valid JSON with required fields."
+    },
+    {
+      "id": "current-war",
+      "endpoint": "GET /clans/{clanTag}/currentwar",
+      "description": "Current war details: state (preparation, inWar, warEnded, notInWar), clan, opponent, startTime, endTime, teamSize, attacksPerMember, members with attacks (attacker, defender, stars, destructionPercentage, order, duration).",
+      "status": "field_observed",
+      "currentOnly": false,
+      "eventDetail": true,
+      "historical": false,
+      "availabilityWindow": "available while war is active and briefly after; exact retention window unverified",
+      "recoverabilityAfterMissedSync": "partial — war summary may survive; attack detail may not once war ends",
+      "requiredFields": [
+        "state",
+        "clan",
+        "opponent",
+        "startTime",
+        "endTime",
+        "teamSize"
+      ],
+      "optionalFields": [
+        "attacksPerMember",
+        "clan.members",
+        "clan.attacks"
+      ],
+      "dependentFeatures": [
+        "war-tracking",
+        "war-attack-records",
+        "missed-attacks",
+        "war-log-detail"
+      ],
+      "verificationEvidence": {
+        "docRef": "https://developer.clashofclans.com/api-docs/index.html — /clans/{clanTag}/currentwar",
+        "captureDate": "2026-10-21T10:17:43.394Z",
+        "fieldObserved": true,
+        "behaviourVerified": false,
+        "testId": null
+      },
+      "fallback": "partial",
+      "fallbackDetail": "War summary (result, size, opponent) may be available from war log. Attack detail and order show Unknown if not captured while active.",
+      "freshnessThresholdMinutes": 30,
+      "allowPartialAcceptance": false
+    },
+    {
+      "id": "war-attack-order",
+      "endpoint": "GET /clans/{clanTag}/currentwar (field: attacks[].order)",
+      "description": "Per-attack order field within the current war response. Required for pre-cleared mirror rule and watch-flag calculation.",
+      "status": "field_observed",
+      "currentOnly": false,
+      "eventDetail": true,
+      "historical": false,
+      "availabilityWindow": "same as current-war",
+      "recoverabilityAfterMissedSync": "not recoverable after war ends if not captured",
+      "requiredFields": [
+        "attacks[].order"
+      ],
+      "optionalFields": [],
+      "dependentFeatures": [
+        "mirror-preclear-rule",
+        "watch-flag",
+        "attack-order-display"
+      ],
+      "verificationEvidence": {
+        "docRef": "https://developer.clashofclans.com/api-docs/index.html — /clans/{clanTag}/currentwar (attacks array)",
+        "captureDate": "2026-10-21T10:17:43.394Z",
+        "fieldObserved": true,
+        "behaviourVerified": false,
+        "testId": null
+      },
+      "fallback": "unknown",
+      "fallbackDetail": "If order field is absent: pre-cleared mirror waiver shows Unknown; watch flag shows Unknown. Never invent order from other fields.",
+      "freshnessThresholdMinutes": 30,
+      "allowPartialAcceptance": false
+    },
+    {
+      "id": "war-log",
+      "endpoint": "GET /clans/{clanTag}/warlog",
+      "description": "Clan war log: list of past wars with opponent, result, teamSize, destructionPercentage, stars. May be private (403).",
+      "status": "field_observed",
+      "currentOnly": false,
+      "eventDetail": false,
+      "historical": true,
+      "availabilityWindow": "unknown — number of past wars retained unverified; private war log returns 403",
+      "recoverabilityAfterMissedSync": "summary level only; detailed attacks not included",
+      "requiredFields": [
+        "result",
+        "teamSize",
+        "opponent",
+        "clan.stars",
+        "opponent.stars"
+      ],
+      "optionalFields": [
+        "clan.destructionPercentage",
+        "opponent.destructionPercentage",
+        "endTime"
+      ],
+      "dependentFeatures": [
+        "war-history",
+        "war-log-summary"
+      ],
+      "verificationEvidence": {
+        "docRef": "https://developer.clashofclans.com/api-docs/index.html — /clans/{clanTag}/warlog",
+        "captureDate": "2026-10-21T10:17:43.394Z",
+        "fieldObserved": true,
+        "behaviourVerified": false,
+        "testId": null
+      },
+      "fallback": "partial",
+      "fallbackDetail": "Private war log returns 403. Show 'war log is private' in UI. Log may not include detailed attack records — those require currentwar capture during active war.",
+      "freshnessThresholdMinutes": 1440,
+      "allowPartialAcceptance": true,
+      "partialAcceptanceNote": "Individual war entries failing validation may be skipped with a warning."
+    },
+    {
+      "id": "cwl-league-group",
+      "endpoint": "GET /clans/{clanTag}/currentwar/leaguegroup",
+      "description": "CWL league group for the current season: season ID, clans, rounds (warTags). Only available during active CWL season.",
+      "status": "unverified",
+      "currentOnly": true,
+      "eventDetail": false,
+      "historical": false,
+      "availabilityWindow": "current CWL season only; unavailable between seasons",
+      "recoverabilityAfterMissedSync": "season roster recoverable during season; round warTags needed to fetch each round",
+      "requiredFields": [
+        "season",
+        "clans",
+        "rounds"
+      ],
+      "optionalFields": [],
+      "dependentFeatures": [
+        "cwl-roster",
+        "cwl-round-tracker",
+        "cwl-banner"
+      ],
+      "verificationEvidence": {
+        "docRef": "https://developer.clashofclans.com/api-docs/index.html — /clans/{clanTag}/currentwar/leaguegroup",
+        "captureDate": null,
+        "fieldObserved": false,
+        "behaviourVerified": false,
+        "testId": null
+      },
+      "fallback": "unknown",
+      "fallbackDetail": "Endpoint returns 404 outside CWL season. Show 'no active CWL season'. Records not captured show 'not captured'.",
+      "freshnessThresholdMinutes": 60,
+      "allowPartialAcceptance": false
+    },
+    {
+      "id": "cwl-war",
+      "endpoint": "GET /clanwarleagues/wars/{warTag}",
+      "description": "Individual CWL round war with full attack detail. warTag obtained from cwl-league-group rounds. Detail availability has a limited retention window.",
+      "status": "unverified",
+      "currentOnly": false,
+      "eventDetail": true,
+      "historical": false,
+      "availabilityWindow": "limited; round detail may expire after CWL season ends — exact window unverified",
+      "recoverabilityAfterMissedSync": "not recoverable once retention window passes",
+      "requiredFields": [
+        "state",
+        "clan",
+        "opponent",
+        "warTag",
+        "teamSize"
+      ],
+      "optionalFields": [
+        "clan.members",
+        "attacks"
+      ],
+      "dependentFeatures": [
+        "cwl-war-tracking",
+        "cwl-attack-records",
+        "cwl-round-capture"
+      ],
+      "verificationEvidence": {
+        "docRef": "https://developer.clashofclans.com/api-docs/index.html — /clanwarleagues/wars/{warTag}",
+        "captureDate": null,
+        "fieldObserved": false,
+        "behaviourVerified": false,
+        "testId": null
+      },
+      "fallback": "partial",
+      "fallbackDetail": "Rounds not captured during their availability window show 'not captured'. Missed rounds are labelled not_recovered, not failed.",
+      "freshnessThresholdMinutes": 60,
+      "allowPartialAcceptance": false
+    },
+    {
+      "id": "raid-seasons",
+      "endpoint": "GET /clans/{clanTag}/capitalraidseasons",
+      "description": "Capital raid season history: raids, members with attackCount, capitalResourcesLooted, attacks per member. District attack detail depends on sub-fields.",
+      "status": "field_observed",
+      "currentOnly": false,
+      "eventDetail": true,
+      "historical": true,
+      "availabilityWindow": "limited history; exact retention unverified",
+      "recoverabilityAfterMissedSync": "historical seasons may be recoverable; current active raid state depends on sync during weekend",
+      "requiredFields": [
+        "items[].startTime",
+        "items[].endTime",
+        "items[].members"
+      ],
+      "optionalFields": [
+        "items[].members[].attackCount",
+        "items[].members[].capitalResourcesLooted",
+        "items[].members[].attacks",
+        "items[].districts"
+      ],
+      "dependentFeatures": [
+        "raid-tracking",
+        "raid-member-stats",
+        "raid-missed-attacks",
+        "raid-eligibility"
+      ],
+      "verificationEvidence": {
+        "docRef": "https://developer.clashofclans.com/api-docs/index.html — /clans/{clanTag}/capitalraidseasons",
+        "captureDate": "2026-10-21T10:17:43.394Z",
+        "fieldObserved": true,
+        "behaviourVerified": false,
+        "testId": null
+      },
+      "fallback": "unknown",
+      "fallbackDetail": "Missing or absent raid data shows Unknown with reason. Attack limits show Unknown if field not returned.",
+      "freshnessThresholdMinutes": 1440,
+      "allowPartialAcceptance": true,
+      "partialAcceptanceNote": "Individual season records failing validation may be skipped with warning."
+    },
+    {
+      "id": "raid-attack-limit-fields",
+      "endpoint": "GET /clans/{clanTag}/capitalraidseasons (fields: members[].attackLimit, members[].bonusAttackLimit)",
+      "description": "Per-member raid attack limit and bonus attack limit fields. Required to calculate expected attacks and identify missed attacks. Exact field names and semantics must be verified against real captures.",
+      "status": "field_observed",
+      "currentOnly": false,
+      "eventDetail": true,
+      "historical": true,
+      "availabilityWindow": "same as raid-seasons",
+      "recoverabilityAfterMissedSync": "same as raid-seasons",
+      "requiredFields": [
+        "members[].attackLimit",
+        "members[].bonusAttackLimit"
+      ],
+      "optionalFields": [],
+      "dependentFeatures": [
+        "raid-eligibility",
+        "raid-expected-attacks",
+        "raid-missed-attacks",
+        "raid-skipped-clear"
+      ],
+      "verificationEvidence": {
+        "docRef": "https://developer.clashofclans.com/api-docs/index.html — capitalraidseasons members array",
+        "captureDate": "2026-10-21T10:17:43.394Z",
+        "fieldObserved": true,
+        "behaviourVerified": false,
+        "testId": null
+      },
+      "fallback": "unknown",
+      "fallbackDetail": "If fields are absent or contradictory: expected attacks shows Unknown. Never assume a fixed limit or infer from clan-level totals.",
+      "freshnessThresholdMinutes": 1440,
+      "allowPartialAcceptance": false
+    },
+    {
+      "id": "raid-attack-order",
+      "endpoint": "GET /clans/{clanTag}/capitalraidseasons (field: members[].attacks[].order or equivalent)",
+      "description": "Whether per-member raid attacks are ordered across districts, enabling skipped-clear confirmation. Field name and presence unverified.",
+      "status": "unverified",
+      "currentOnly": false,
+      "eventDetail": true,
+      "historical": true,
+      "availabilityWindow": "same as raid-seasons",
+      "recoverabilityAfterMissedSync": "same as raid-seasons",
+      "requiredFields": [],
+      "optionalFields": [
+        "members[].attacks[].order"
+      ],
+      "dependentFeatures": [
+        "raid-skipped-clear"
+      ],
+      "verificationEvidence": {
+        "docRef": "https://developer.clashofclans.com/api-docs/index.html — capitalraidseasons attacks",
+        "captureDate": null,
+        "fieldObserved": false,
+        "behaviourVerified": false,
+        "testId": null
+      },
+      "fallback": "unknown",
+      "fallbackDetail": "If per-attack order is not exposed: skipped clears show 'possible' or Unknown, never 'confirmed'. Do not infer from district final state alone.",
+      "freshnessThresholdMinutes": 1440,
+      "allowPartialAcceptance": false
+    },
+    {
+      "id": "player-profile",
+      "endpoint": "GET /players/{playerTag}",
+      "description": "Full player profile: tag, name, expLevel, trophies, versusTrophies, bestTrophies, warStars, attackWins, defenseWins, league, clan, role, donations, donationsReceived, achievements, troops, heroes, heroEquipment, spells.",
+      "status": "unverified",
+      "currentOnly": true,
+      "eventDetail": false,
+      "historical": false,
+      "availabilityWindow": "current state only",
+      "recoverabilityAfterMissedSync": "not recoverable; progression timeline built from repeated snapshot captures",
+      "requiredFields": [
+        "tag",
+        "name",
+        "expLevel",
+        "trophies",
+        "heroes",
+        "achievements"
+      ],
+      "optionalFields": [
+        "warStars",
+        "attackWins",
+        "defenseWins",
+        "bestTrophies",
+        "clan",
+        "role",
+        "league",
+        "donations",
+        "donationsReceived",
+        "troops",
+        "heroEquipment",
+        "spells"
+      ],
+      "dependentFeatures": [
+        "player-profile-page",
+        "progression-timeline",
+        "hero-levels",
+        "achievement-tracking"
+      ],
+      "verificationEvidence": {
+        "docRef": "https://developer.clashofclans.com/api-docs/index.html — /players/{playerTag}",
+        "captureDate": null,
+        "fieldObserved": false,
+        "behaviourVerified": false,
+        "testId": null
+      },
+      "fallback": "partial",
+      "fallbackDetail": "Profile shows fields available from member snapshot when full player profile unavailable.",
+      "freshnessThresholdMinutes": 1440,
+      "allowPartialAcceptance": true,
+      "partialAcceptanceNote": "Missing optional fields produce Unknown in the UI; required fields missing causes the record to be rejected."
+    },
+    {
+      "id": "hero-equipment",
+      "endpoint": "GET /players/{playerTag} (field: heroEquipment)",
+      "description": "Hero equipment field in the player profile. Field name and structure must be verified against the official schema.",
+      "status": "unverified",
+      "currentOnly": true,
+      "eventDetail": false,
+      "historical": false,
+      "availabilityWindow": "same as player-profile",
+      "recoverabilityAfterMissedSync": "same as player-profile",
+      "requiredFields": [],
+      "optionalFields": [
+        "heroEquipment"
+      ],
+      "dependentFeatures": [
+        "hero-equipment-display"
+      ],
+      "verificationEvidence": {
+        "docRef": "https://developer.clashofclans.com/api-docs/index.html — /players/{playerTag} heroEquipment",
+        "captureDate": null,
+        "fieldObserved": false,
+        "behaviourVerified": false,
+        "testId": null
+      },
+      "fallback": "unknown",
+      "fallbackDetail": "If heroEquipment field absent or not in official schema: feature disabled. An ordinary troop record is never proof of an active super troop.",
+      "freshnessThresholdMinutes": 1440,
+      "allowPartialAcceptance": false
+    },
+    {
+      "id": "super-troops",
+      "endpoint": "GET /players/{playerTag} (field: troops with isActive or superTroopIsActive equivalent)",
+      "description": "Whether active super troops are exposed as a verifiable field, distinct from regular troop presence.",
+      "status": "unverified",
+      "currentOnly": true,
+      "eventDetail": false,
+      "historical": false,
+      "availabilityWindow": "same as player-profile",
+      "recoverabilityAfterMissedSync": "same as player-profile",
+      "requiredFields": [],
+      "optionalFields": [],
+      "dependentFeatures": [
+        "super-troop-display"
+      ],
+      "verificationEvidence": {
+        "docRef": "https://developer.clashofclans.com/api-docs/index.html — /players/{playerTag} troops",
+        "captureDate": null,
+        "fieldObserved": false,
+        "behaviourVerified": false,
+        "testId": null
+      },
+      "fallback": "disabled",
+      "fallbackDetail": "If no distinct active-super-troop field: feature disabled. An ordinary troop record is never proof of an active super troop.",
+      "freshnessThresholdMinutes": 1440,
+      "allowPartialAcceptance": false
+    },
+    {
+      "id": "war-preference",
+      "endpoint": "GET /players/{playerTag} (field: warPreference or equivalent)",
+      "description": "Whether war opt-in/opt-out preference is returned in the player profile endpoint.",
+      "status": "unverified",
+      "currentOnly": true,
+      "eventDetail": false,
+      "historical": false,
+      "availabilityWindow": "same as player-profile",
+      "recoverabilityAfterMissedSync": "same as player-profile",
+      "requiredFields": [],
+      "optionalFields": [
+        "warPreference"
+      ],
+      "dependentFeatures": [
+        "war-preference-display"
+      ],
+      "verificationEvidence": {
+        "docRef": "https://developer.clashofclans.com/api-docs/index.html — /players/{playerTag}",
+        "captureDate": null,
+        "fieldObserved": false,
+        "behaviourVerified": false,
+        "testId": null
+      },
+      "fallback": "disabled",
+      "fallbackDetail": "If field absent: war preference display disabled. Shown only if the field is verified in Phase 0, with its observation time.",
+      "freshnessThresholdMinutes": 1440,
+      "allowPartialAcceptance": false
+    },
+    {
+      "id": "clan-games-achievement",
+      "endpoint": "GET /players/{playerTag} (achievement: 'Games Champion')",
+      "description": "Whether the 'Games Champion' achievement counter can be used to derive per-player Clan Games event points by diffing start and end snapshots. The diff approach is acceptable only if Phase 0 captures demonstrate the counter increases as expected including per-player cap and completed-achievement behaviour.",
+      "status": "unverified",
+      "currentOnly": false,
+      "eventDetail": false,
+      "historical": false,
+      "availabilityWindow": "cumulative counter; snapshot diffs only during active Clan Games",
+      "recoverabilityAfterMissedSync": "requires both a start snapshot and end snapshot during the Clan Games event",
+      "requiredFields": [],
+      "optionalFields": [
+        "achievements[name='Games Champion'].value"
+      ],
+      "dependentFeatures": [
+        "clan-games-scoring"
+      ],
+      "verificationEvidence": {
+        "docRef": "https://developer.clashofclans.com/api-docs/index.html — /players/{playerTag} achievements",
+        "captureDate": null,
+        "fieldObserved": false,
+        "behaviourVerified": false,
+        "testId": null
+      },
+      "fallback": "manual_entry",
+      "fallbackDetail": "If not verified: automatic member points disabled; manual entry only (event, player, score, source, timestamp, audit history). Clan Games endpoint does not exist in the official API.",
+      "freshnessThresholdMinutes": 60,
+      "allowPartialAcceptance": false
+    },
+    {
+      "id": "player-tag-lookup",
+      "endpoint": "GET /players/{playerTag}",
+      "description": "Tag lookup and normalisation verification: tags are uppercase, leading #, O→0 substituted, URL-encoded as %23. Verify the API normalises or rejects malformed tags.",
+      "status": "unverified",
+      "currentOnly": true,
+      "eventDetail": false,
+      "historical": false,
+      "availabilityWindow": "current state",
+      "recoverabilityAfterMissedSync": "not applicable",
+      "requiredFields": [
+        "tag"
+      ],
+      "optionalFields": [],
+      "dependentFeatures": [
+        "tag-normalisation",
+        "player-search"
+      ],
+      "verificationEvidence": {
+        "docRef": "https://developer.clashofclans.com/api-docs/index.html",
+        "captureDate": null,
+        "fieldObserved": false,
+        "behaviourVerified": false,
+        "testId": null
+      },
+      "fallback": "partial",
+      "fallbackDetail": "Tag normalisation logic is implemented in the app; API behaviour under malformed tags verified in Phase 0.",
+      "freshnessThresholdMinutes": 1440,
+      "allowPartialAcceptance": false
+    }
+  ]
+}

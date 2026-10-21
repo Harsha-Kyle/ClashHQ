@@ -1,0 +1,37 @@
+# Dependencies
+node_modules/
+dist/
+
+# SQLite Database and Encryption Keys
+data/
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
+*.key
+
+# Environment & Secrets
+.env
+.env.*
+!.env.example
+
+# Raw captures (Runtime check also prevents writing inside repo)
+*raw*
+captures/
+temp/
+
+# Checkpoint copies (managed locally, never committed)
+checkpoints/
+
+# Logs & Debug
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

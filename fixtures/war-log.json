@@ -1,0 +1,1967 @@
+{
+  "items": [
+    {
+      "result": "win",
+      "endTime": "20261019T153224.000Z",
+      "teamSize": 45,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#CVVJPJ8J",
+        "name": "Clan_0111",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 20,
+        "attacks": 69,
+        "stars": 135,
+        "destructionPercentage": 100,
+        "expEarned": 672
+      },
+      "opponent": {
+        "tag": "#JG0Y02VR",
+        "name": "Clan_0193",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 18,
+        "stars": 133,
+        "destructionPercentage": 99.04444
+      }
+    },
+    {
+      "result": "tie",
+      "endTime": "20261017T155104.000Z",
+      "teamSize": 40,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#CVVJPJ8J",
+        "name": "Clan_0111",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 20,
+        "attacks": 66,
+        "stars": 120,
+        "destructionPercentage": 100,
+        "expEarned": 558
+      },
+      "opponent": {
+        "tag": "#C888CGLY",
+        "name": "Clan_0194",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 23,
+        "stars": 120,
+        "destructionPercentage": 100
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20261015T153118.000Z",
+      "teamSize": 40,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#CVVJPJ8J",
+        "name": "Clan_0111",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 20,
+        "attacks": 62,
+        "stars": 120,
+        "destructionPercentage": 100,
+        "expEarned": 629
+      },
+      "opponent": {
+        "tag": "#90JU02C0",
+        "name": "Clan_0195",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 22,
+        "stars": 118,
+        "destructionPercentage": 98.9
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20261013T152434.000Z",
+      "teamSize": 40,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#CVVJPJ8J",
+        "name": "Clan_0111",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 20,
+        "attacks": 68,
+        "stars": 119,
+        "destructionPercentage": 99.875,
+        "expEarned": 623
+      },
+      "opponent": {
+        "tag": "#0GR9P222",
+        "name": "Clan_0196",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 22,
+        "stars": 108,
+        "destructionPercentage": 96.3
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20261010T181653.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 1,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#CVVJPJ8J",
+        "name": "Clan_0111",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 20,
+        "attacks": 210,
+        "stars": 657,
+        "destructionPercentage": 678.3333,
+        "expEarned": 0
+      },
+      "opponent": {
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 0,
+        "stars": 469,
+        "destructionPercentage": 0
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20261001T182955.000Z",
+      "teamSize": 35,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#CVVJPJ8J",
+        "name": "Clan_0111",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 20,
+        "attacks": 57,
+        "stars": 105,
+        "destructionPercentage": 100,
+        "expEarned": 569
+      },
+      "opponent": {
+        "tag": "#QQVC8PC0",
+        "name": "Clan_0197",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 30,
+        "stars": 104,
+        "destructionPercentage": 99.6
+      }
+    },
+    {
+      "result": "tie",
+      "endTime": "20260929T183055.000Z",
+      "teamSize": 35,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#CVVJPJ8J",
+        "name": "Clan_0111",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 20,
+        "attacks": 58,
+        "stars": 105,
+        "destructionPercentage": 100,
+        "expEarned": 480
+      },
+      "opponent": {
+        "tag": "#902PV9VP",
+        "name": "Clan_0198",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 14,
+        "stars": 105,
+        "destructionPercentage": 100
+      }
+    },
+    {
+      "result": "tie",
+      "endTime": "20260927T172238.000Z",
+      "teamSize": 35,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#CVVJPJ8J",
+        "name": "Clan_0111",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 20,
+        "attacks": 59,
+        "stars": 105,
+        "destructionPercentage": 100,
+        "expEarned": 471
+      },
+      "opponent": {
+        "tag": "#RJ2LGCL2",
+        "name": "Clan_0199",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 19,
+        "stars": 105,
+        "destructionPercentage": 100
+      }
+    },
+    {
+      "result": "tie",
+      "endTime": "20260925T151604.000Z",
+      "teamSize": 35,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#CVVJPJ8J",
+        "name": "Clan_0111",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 20,
+        "attacks": 63,
+        "stars": 105,
+        "destructionPercentage": 100,
+        "expEarned": 498
+      },
+      "opponent": {
+        "tag": "#JGYL00VC",
+        "name": "Clan_0200",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 22,
+        "stars": 105,
+        "destructionPercentage": 100
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20260923T154957.000Z",
+      "teamSize": 40,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#CVVJPJ8J",
+        "name": "Clan_0111",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 20,
+        "attacks": 67,
+        "stars": 120,
+        "destructionPercentage": 100,
+        "expEarned": 599
+      },
+      "opponent": {
+        "tag": "#G22C0UUU",
+        "name": "Clan_0201",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 22,
+        "stars": 111,
+        "destructionPercentage": 97.6
+      }
+    },
+    {
+      "result": "tie",
+      "endTime": "20260921T153046.000Z",
+      "teamSize": 40,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#CVVJPJ8J",
+        "name": "Clan_0111",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 20,
+        "attacks": 60,
+        "stars": 120,
+        "destructionPercentage": 100,
+        "expEarned": 559
+      },
+      "opponent": {
+        "tag": "#YULUP8VG",
+        "name": "Clan_0202",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 18,
+        "stars": 120,
+        "destructionPercentage": 100
+      }
+    },
+    {
+      "result": "tie",
+      "endTime": "20260919T140523.000Z",
+      "teamSize": 40,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#CVVJPJ8J",
+        "name": "Clan_0111",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 20,
+        "attacks": 64,
+        "stars": 120,
+        "destructionPercentage": 100,
+        "expEarned": 552
+      },
+      "opponent": {
+        "tag": "#C9VJ990R",
+        "name": "Clan_0203",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 18,
+        "stars": 120,
+        "destructionPercentage": 100
+      }
+    },
+    {
+      "result": "tie",
+      "endTime": "20260917T134005.000Z",
+      "teamSize": 40,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#CVVJPJ8J",
+        "name": "Clan_0111",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 20,
+        "attacks": 66,
+        "stars": 120,
+        "destructionPercentage": 100,
+        "expEarned": 553
+      },
+      "opponent": {
+        "tag": "#PVPJC0QV",
+        "name": "Clan_0204",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 15,
+        "stars": 120,
+        "destructionPercentage": 100
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20260915T130115.000Z",
+      "teamSize": 40,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#CVVJPJ8J",
+        "name": "Clan_0111",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 20,
+        "attacks": 59,
+        "stars": 119,
+        "destructionPercentage": 99.525,
+        "expEarned": 614
+      },
+      "opponent": {
+        "tag": "#GRVV0VY9",
+        "name": "Clan_0205",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 21,
+        "stars": 114,
+        "destructionPercentage": 96.875
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20260913T134039.000Z",
+      "teamSize": 40,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#CVVJPJ8J",
+        "name": "Clan_0111",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 20,
+        "attacks": 69,
+        "stars": 120,
+        "destructionPercentage": 100,
+        "expEarned": 600
+      },
+      "opponent": {
+        "tag": "#29P2Q9QY",
+        "name": "Clan_0206",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 25,
+        "stars": 99,
+        "destructionPercentage": 88.95
+      }
+    },
+    {
+      "result": null,
+      "endTime": "20260910T204556.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 1,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#CVVJPJ8J",
+        "name": "Clan_0111",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 20,
+        "attacks": 203,
+        "stars": 556,
+        "destructionPercentage": 642.36664,
+        "expEarned": 0
+      },
+      "opponent": {
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 0,
+        "stars": 535,
+        "destructionPercentage": 0
+      }
+    },
+    {
+      "result": "tie",
+      "endTime": "20260902T162650.000Z",
+      "teamSize": 35,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#CVVJPJ8J",
+        "name": "Clan_0111",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 19,
+        "attacks": 63,
+        "stars": 105,
+        "destructionPercentage": 100,
+        "expEarned": 504
+      },
+      "opponent": {
+        "tag": "#00YVLCGR",
+        "name": "Clan_0207",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 19,
+        "stars": 105,
+        "destructionPercentage": 100
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20260831T160155.000Z",
+      "teamSize": 35,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#CVVJPJ8J",
+        "name": "Clan_0111",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 19,
+        "attacks": 52,
+        "stars": 105,
+        "destructionPercentage": 100,
+        "expEarned": 529
+      },
+      "opponent": {
+        "tag": "#820PQ99G",
+        "name": "Clan_0208",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 13,
+        "stars": 64,
+        "destructionPercentage": 68.65714
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20260829T153703.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#CVVJPJ8J",
+        "name": "Clan_0111",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 19,
+        "attacks": 51,
+        "stars": 90,
+        "destructionPercentage": 100,
+        "expEarned": 470
+      },
+      "opponent": {
+        "tag": "#Y8GPGJUL",
+        "name": "Clan_0209",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 30,
+        "stars": 80,
+        "destructionPercentage": 94.8
+      }
+    },
+    {
+      "result": "tie",
+      "endTime": "20260827T142007.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#CVVJPJ8J",
+        "name": "Clan_0111",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 19,
+        "attacks": 48,
+        "stars": 90,
+        "destructionPercentage": 100,
+        "expEarned": 443
+      },
+      "opponent": {
+        "tag": "#URP9PYQJ",
+        "name": "Clan_0210",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 14,
+        "stars": 90,
+        "destructionPercentage": 100
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20260825T150210.000Z",
+      "teamSize": 40,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#CVVJPJ8J",
+        "name": "Clan_0111",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 19,
+        "attacks": 52,
+        "stars": 110,
+        "destructionPercentage": 94.075,
+        "expEarned": 566
+      },
+      "opponent": {
+        "tag": "#QRRRRP8U",
+        "name": "Clan_0211",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 27,
+        "stars": 116,
+        "destructionPercentage": 98.625
+      }
+    },
+    {
+      "result": "tie",
+      "endTime": "20260823T150646.000Z",
+      "teamSize": 40,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#CVVJPJ8J",
+        "name": "Clan_0111",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 19,
+        "attacks": 72,
+        "stars": 120,
+        "destructionPercentage": 100,
+        "expEarned": 552
+      },
+      "opponent": {
+        "tag": "#LRU2GVYP",
+        "name": "Clan_0212",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 20,
+        "stars": 120,
+        "destructionPercentage": 100
+      }
+    },
+    {
+      "result": "tie",
+      "endTime": "20260821T150711.000Z",
+      "teamSize": 40,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#CVVJPJ8J",
+        "name": "Clan_0111",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 19,
+        "attacks": 68,
+        "stars": 120,
+        "destructionPercentage": 100,
+        "expEarned": 508
+      },
+      "opponent": {
+        "tag": "#C2VL98L8",
+        "name": "Clan_0213",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 23,
+        "stars": 120,
+        "destructionPercentage": 100
+      }
+    },
+    {
+      "result": "tie",
+      "endTime": "20260819T150108.000Z",
+      "teamSize": 40,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#CVVJPJ8J",
+        "name": "Clan_0111",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 19,
+        "attacks": 72,
+        "stars": 120,
+        "destructionPercentage": 100,
+        "expEarned": 555
+      },
+      "opponent": {
+        "tag": "#0CVV9U8L",
+        "name": "Clan_0214",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 19,
+        "stars": 120,
+        "destructionPercentage": 100
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20260817T143130.000Z",
+      "teamSize": 40,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#CVVJPJ8J",
+        "name": "Clan_0111",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 19,
+        "attacks": 70,
+        "stars": 120,
+        "destructionPercentage": 100,
+        "expEarned": 599
+      },
+      "opponent": {
+        "tag": "#L2L02YGR",
+        "name": "Clan_0215",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 17,
+        "stars": 104,
+        "destructionPercentage": 93.175
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20260815T150109.000Z",
+      "teamSize": 40,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#CVVJPJ8J",
+        "name": "Clan_0111",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 19,
+        "attacks": 64,
+        "stars": 120,
+        "destructionPercentage": 100,
+        "expEarned": 605
+      },
+      "opponent": {
+        "tag": "#PVV89PPQ",
+        "name": "Clan_0216",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 19,
+        "stars": 118,
+        "destructionPercentage": 98.525
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20260813T155226.000Z",
+      "teamSize": 40,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#CVVJPJ8J",
+        "name": "Clan_0111",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 19,
+        "attacks": 70,
+        "stars": 120,
+        "destructionPercentage": 100,
+        "expEarned": 592
+      },
+      "opponent": {
+        "tag": "#R8V99QLV",
+        "name": "Clan_0217",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 19,
+        "stars": 119,
+        "destructionPercentage": 99.875
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20260810T182941.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 1,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#CVVJPJ8J",
+        "name": "Clan_0111",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 19,
+        "attacks": 209,
+        "stars": 651,
+        "destructionPercentage": 681.3333,
+        "expEarned": 0
+      },
+      "opponent": {
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 0,
+        "stars": 510,
+        "destructionPercentage": 0
+      }
+    },
+    {
+      "result": "tie",
+      "endTime": "20260802T154249.000Z",
+      "teamSize": 35,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#CVVJPJ8J",
+        "name": "Clan_0111",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 19,
+        "attacks": 58,
+        "stars": 105,
+        "destructionPercentage": 100,
+        "expEarned": 473
+      },
+      "opponent": {
+        "tag": "#U982QJQ0",
+        "name": "Clan_0218",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 13,
+        "stars": 105,
+        "destructionPercentage": 100
+      }
+    },
+    {
+      "result": "tie",
+      "endTime": "20260731T151410.000Z",
+      "teamSize": 40,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#CVVJPJ8J",
+        "name": "Clan_0111",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 19,
+        "attacks": 70,
+        "stars": 120,
+        "destructionPercentage": 100,
+        "expEarned": 551
+      },
+      "opponent": {
+        "tag": "#2QGL2UUU",
+        "name": "Clan_0219",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 24,
+        "stars": 120,
+        "destructionPercentage": 100
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20260729T152626.000Z",
+      "teamSize": 40,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#CVVJPJ8J",
+        "name": "Clan_0111",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 19,
+        "attacks": 72,
+        "stars": 120,
+        "destructionPercentage": 100,
+        "expEarned": 596
+      },
+      "opponent": {
+        "tag": "#CVCRLYG2",
+        "name": "Clan_0220",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 15,
+        "stars": 115,
+        "destructionPercentage": 98.8
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20260727T153824.000Z",
+      "teamSize": 40,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#CVVJPJ8J",
+        "name": "Clan_0111",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 19,
+        "attacks": 66,
+        "stars": 112,
+        "destructionPercentage": 96.4,
+        "expEarned": 603
+      },
+      "opponent": {
+        "tag": "#2LJ0GVR2",
+        "name": "Clan_0221",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 19,
+        "stars": 54,
+        "destructionPercentage": 56.8
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20260725T160852.000Z",
+      "teamSize": 35,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#CVVJPJ8J",
+        "name": "Clan_0111",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 19,
+        "attacks": 53,
+        "stars": 100,
+        "destructionPercentage": 98.28571,
+        "expEarned": 517
+      },
+      "opponent": {
+        "tag": "#V9QCV8QQ",
+        "name": "Clan_0222",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 27,
+        "stars": 88,
+        "destructionPercentage": 90.85714
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20260723T164232.000Z",
+      "teamSize": 35,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#CVVJPJ8J",
+        "name": "Clan_0111",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 19,
+        "attacks": 59,
+        "stars": 92,
+        "destructionPercentage": 92.171425,
+        "expEarned": 472
+      },
+      "opponent": {
+        "tag": "#JYRVGRGR",
+        "name": "Clan_0223",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 26,
+        "stars": 103,
+        "destructionPercentage": 99.62857
+      }
+    },
+    {
+      "result": "tie",
+      "endTime": "20260721T164830.000Z",
+      "teamSize": 35,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#CVVJPJ8J",
+        "name": "Clan_0111",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 19,
+        "attacks": 50,
+        "stars": 105,
+        "destructionPercentage": 100,
+        "expEarned": 480
+      },
+      "opponent": {
+        "tag": "#PCG092VC",
+        "name": "Clan_0224",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 14,
+        "stars": 105,
+        "destructionPercentage": 100
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20260719T171455.000Z",
+      "teamSize": 35,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#CVVJPJ8J",
+        "name": "Clan_0111",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 19,
+        "attacks": 43,
+        "stars": 105,
+        "destructionPercentage": 100,
+        "expEarned": 518
+      },
+      "opponent": {
+        "tag": "#LV2QRV22",
+        "name": "Clan_0225",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 19,
+        "stars": 103,
+        "destructionPercentage": 99.51428
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20260717T174948.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#CVVJPJ8J",
+        "name": "Clan_0111",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 19,
+        "attacks": 54,
+        "stars": 90,
+        "destructionPercentage": 100,
+        "expEarned": 467
+      },
+      "opponent": {
+        "tag": "#JPYYGUL2",
+        "name": "Clan_0226",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 18,
+        "stars": 82,
+        "destructionPercentage": 95.4
+      }
+    },
+    {
+      "result": "tie",
+      "endTime": "20260715T170514.000Z",
+      "teamSize": 35,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#CVVJPJ8J",
+        "name": "Clan_0111",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 19,
+        "attacks": 49,
+        "stars": 105,
+        "destructionPercentage": 100,
+        "expEarned": 472
+      },
+      "opponent": {
+        "tag": "#YP0GCCY2",
+        "name": "Clan_0227",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 15,
+        "stars": 105,
+        "destructionPercentage": 100
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20260713T165025.000Z",
+      "teamSize": 40,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#CVVJPJ8J",
+        "name": "Clan_0111",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 19,
+        "attacks": 58,
+        "stars": 117,
+        "destructionPercentage": 98.8,
+        "expEarned": 580
+      },
+      "opponent": {
+        "tag": "#RCLR8YG0",
+        "name": "Clan_0228",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 13,
+        "stars": 95,
+        "destructionPercentage": 87.825
+      }
+    },
+    {
+      "result": "tie",
+      "endTime": "20260710T155737.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 1,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#CVVJPJ8J",
+        "name": "Clan_0111",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 19,
+        "attacks": 199,
+        "stars": 484,
+        "destructionPercentage": 583.86664,
+        "expEarned": 0
+      },
+      "opponent": {
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 0,
+        "stars": 548,
+        "destructionPercentage": 0
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20260702T152806.000Z",
+      "teamSize": 35,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#CVVJPJ8J",
+        "name": "Clan_0111",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 18,
+        "attacks": 62,
+        "stars": 103,
+        "destructionPercentage": 99,
+        "expEarned": 508
+      },
+      "opponent": {
+        "tag": "#UV992RY2",
+        "name": "Clan_0229",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 20,
+        "stars": 99,
+        "destructionPercentage": 97.22857
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20260630T160246.000Z",
+      "teamSize": 40,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#CVVJPJ8J",
+        "name": "Clan_0111",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 18,
+        "attacks": 65,
+        "stars": 117,
+        "destructionPercentage": 98.475,
+        "expEarned": 567
+      },
+      "opponent": {
+        "tag": "#RYL0CCL2",
+        "name": "Clan_0230",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 24,
+        "stars": 101,
+        "destructionPercentage": 92.7
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20260628T152810.000Z",
+      "teamSize": 45,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#CVVJPJ8J",
+        "name": "Clan_0111",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 18,
+        "attacks": 71,
+        "stars": 129,
+        "destructionPercentage": 95.55556,
+        "expEarned": 619
+      },
+      "opponent": {
+        "tag": "#G0J9PPUR",
+        "name": "Clan_0231",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 17,
+        "stars": 120,
+        "destructionPercentage": 92.71111
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20260625T185909.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 1,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#CVVJPJ8J",
+        "name": "Clan_0111",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 18,
+        "attacks": 205,
+        "stars": 615,
+        "destructionPercentage": 660.4,
+        "expEarned": 0
+      },
+      "opponent": {
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 0,
+        "stars": 507,
+        "destructionPercentage": 0
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20260617T172659.000Z",
+      "teamSize": 35,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#CVVJPJ8J",
+        "name": "Clan_0111",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 18,
+        "attacks": 60,
+        "stars": 105,
+        "destructionPercentage": 100,
+        "expEarned": 520
+      },
+      "opponent": {
+        "tag": "#QVVPLRJJ",
+        "name": "Clan_0232",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 18,
+        "stars": 103,
+        "destructionPercentage": 99.25714
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20260615T154212.000Z",
+      "teamSize": 35,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#CVVJPJ8J",
+        "name": "Clan_0111",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 18,
+        "attacks": 51,
+        "stars": 104,
+        "destructionPercentage": 99.88571,
+        "expEarned": 510
+      },
+      "opponent": {
+        "tag": "#JQVP2RPY",
+        "name": "Clan_0233",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 20,
+        "stars": 102,
+        "destructionPercentage": 98.02857
+      }
+    },
+    {
+      "result": "tie",
+      "endTime": "20260613T153856.000Z",
+      "teamSize": 40,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#CVVJPJ8J",
+        "name": "Clan_0111",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 18,
+        "attacks": 54,
+        "stars": 120,
+        "destructionPercentage": 100,
+        "expEarned": 525
+      },
+      "opponent": {
+        "tag": "#LVLRUL29",
+        "name": "Clan_0234",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 12,
+        "stars": 120,
+        "destructionPercentage": 100
+      }
+    },
+    {
+      "result": null,
+      "endTime": "20260611T051759.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 1,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#CVVJPJ8J",
+        "name": "Clan_0111",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 18,
+        "attacks": 192,
+        "stars": 517,
+        "destructionPercentage": 600.6,
+        "expEarned": 0
+      },
+      "opponent": {
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 0,
+        "stars": 487,
+        "destructionPercentage": 0
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20260603T033343.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#CVVJPJ8J",
+        "name": "Clan_0111",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 18,
+        "attacks": 38,
+        "stars": 87,
+        "destructionPercentage": 96.666664,
+        "expEarned": 445
+      },
+      "opponent": {
+        "tag": "#9GR80289",
+        "name": "Clan_0235",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 18,
+        "stars": 23,
+        "destructionPercentage": 27.466667
+      }
+    },
+    {
+      "result": "tie",
+      "endTime": "20260531T195652.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#CVVJPJ8J",
+        "name": "Clan_0111",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 18,
+        "attacks": 48,
+        "stars": 90,
+        "destructionPercentage": 100,
+        "expEarned": 404
+      },
+      "opponent": {
+        "tag": "#8LUUUCJ8",
+        "name": "Clan_0236",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 23,
+        "stars": 90,
+        "destructionPercentage": 100
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20260529T195556.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#CVVJPJ8J",
+        "name": "Clan_0111",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 18,
+        "attacks": 47,
+        "stars": 90,
+        "destructionPercentage": 100,
+        "expEarned": 452
+      },
+      "opponent": {
+        "tag": "#RYR80LGR",
+        "name": "Clan_0237",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 11,
+        "stars": 89,
+        "destructionPercentage": 99.73333
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20260527T174658.000Z",
+      "teamSize": 35,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#CVVJPJ8J",
+        "name": "Clan_0111",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 18,
+        "attacks": 50,
+        "stars": 105,
+        "destructionPercentage": 100,
+        "expEarned": 519
+      },
+      "opponent": {
+        "tag": "#9QCQGQCU",
+        "name": "Clan_0238",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 12,
+        "stars": 98,
+        "destructionPercentage": 96.85714
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20260525T160927.000Z",
+      "teamSize": 35,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#CVVJPJ8J",
+        "name": "Clan_0111",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 17,
+        "attacks": 53,
+        "stars": 105,
+        "destructionPercentage": 100,
+        "expEarned": 500
+      },
+      "opponent": {
+        "tag": "#C92QPVJ9",
+        "name": "Clan_0239",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 10,
+        "stars": 104,
+        "destructionPercentage": 99.11429
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20260523T163908.000Z",
+      "teamSize": 35,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#CVVJPJ8J",
+        "name": "Clan_0111",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 17,
+        "attacks": 60,
+        "stars": 105,
+        "destructionPercentage": 100,
+        "expEarned": 485
+      },
+      "opponent": {
+        "tag": "#228UJLVR",
+        "name": "Clan_0240",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 23,
+        "stars": 47,
+        "destructionPercentage": 49.8
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20260521T153127.000Z",
+      "teamSize": 35,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#CVVJPJ8J",
+        "name": "Clan_0111",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 17,
+        "attacks": 54,
+        "stars": 105,
+        "destructionPercentage": 100,
+        "expEarned": 483
+      },
+      "opponent": {
+        "tag": "#RR9Y99RG",
+        "name": "Clan_0241",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 23,
+        "stars": 96,
+        "destructionPercentage": 96.6
+      }
+    },
+    {
+      "result": "tie",
+      "endTime": "20260519T152229.000Z",
+      "teamSize": 35,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#CVVJPJ8J",
+        "name": "Clan_0111",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 17,
+        "attacks": 54,
+        "stars": 105,
+        "destructionPercentage": 100,
+        "expEarned": 463
+      },
+      "opponent": {
+        "tag": "#VL229QRU",
+        "name": "Clan_0242",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 18,
+        "stars": 105,
+        "destructionPercentage": 100
+      }
+    },
+    {
+      "result": null,
+      "endTime": "20260510T164805.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 1,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#CVVJPJ8J",
+        "name": "Clan_0111",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 17,
+        "attacks": 193,
+        "stars": 506,
+        "destructionPercentage": 580.6667,
+        "expEarned": 0
+      },
+      "opponent": {
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 0,
+        "stars": 508,
+        "destructionPercentage": 0
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20260411T032219.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 1,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#CVVJPJ8J",
+        "name": "Clan_0111",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 17,
+        "attacks": 204,
+        "stars": 624,
+        "destructionPercentage": 660.93335,
+        "expEarned": 0
+      },
+      "opponent": {
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 0,
+        "stars": 462,
+        "destructionPercentage": 0
+      }
+    },
+    {
+      "result": null,
+      "endTime": "20260310T134841.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 1,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#CVVJPJ8J",
+        "name": "Clan_0111",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 16,
+        "attacks": 204,
+        "stars": 583,
+        "destructionPercentage": 642.26666,
+        "expEarned": 0
+      },
+      "opponent": {
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 0,
+        "stars": 520,
+        "destructionPercentage": 0
+      }
+    },
+    {
+      "result": null,
+      "endTime": "20260210T114608.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 1,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#CVVJPJ8J",
+        "name": "Clan_0111",
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 15,
+        "attacks": 199,
+        "stars": 573,
+        "destructionPercentage": 626.3333,
+        "expEarned": 0
+      },
+      "opponent": {
+        "badgeUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        },
+        "clanLevel": 0,
+        "stars": 514,
+        "destructionPercentage": 0
+      }
+    }
+  ],
+  "paging": {
+    "cursors": {}
+  }
+}

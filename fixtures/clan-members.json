@@ -1,0 +1,2649 @@
+{
+  "items": [
+    {
+      "tag": "#PJQVCCYC",
+      "name": "Player_0005",
+      "role": "leader",
+      "townHallLevel": 18,
+      "expLevel": 268,
+      "league": {
+        "id": 29000022,
+        "name": "Player_0006",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "tiny": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "leagueTier": {
+        "id": 105000035,
+        "name": "Player_0007",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "trophies": 133,
+      "builderBaseTrophies": 3880,
+      "clanRank": 1,
+      "previousClanRank": 1,
+      "donations": 8108,
+      "donationsReceived": 2157,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000004
+          },
+          {
+            "type": "walls",
+            "id": 82000128
+          },
+          {
+            "type": "roof",
+            "id": 82000130
+          },
+          {
+            "type": "decoration",
+            "id": 82000066
+          }
+        ]
+      },
+      "builderBaseLeague": {
+        "id": 44000029,
+        "name": "Player_0008"
+      }
+    },
+    {
+      "tag": "#G208VG0V",
+      "name": "Player_0009",
+      "role": "admin",
+      "townHallLevel": 18,
+      "expLevel": 224,
+      "league": {
+        "id": 29000022,
+        "name": "Player_0006",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "tiny": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "leagueTier": {
+        "id": 105000034,
+        "name": "Player_0010",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "trophies": 395,
+      "builderBaseTrophies": 3975,
+      "clanRank": 2,
+      "previousClanRank": 2,
+      "donations": 184,
+      "donationsReceived": 661,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000000
+          },
+          {
+            "type": "walls",
+            "id": 82000048
+          },
+          {
+            "type": "roof",
+            "id": 82000081
+          },
+          {
+            "type": "decoration",
+            "id": 82000060
+          }
+        ]
+      },
+      "builderBaseLeague": {
+        "id": 44000029,
+        "name": "Player_0008"
+      }
+    },
+    {
+      "tag": "#Y2RCVLGU",
+      "name": "Player_0011",
+      "role": "admin",
+      "townHallLevel": 18,
+      "expLevel": 221,
+      "league": {
+        "id": 29000000,
+        "name": "Player_0012",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "tiny": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "leagueTier": {
+        "id": 105000033,
+        "name": "Player_0013",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "trophies": 164,
+      "builderBaseTrophies": 3474,
+      "clanRank": 3,
+      "previousClanRank": 4,
+      "donations": 2672,
+      "donationsReceived": 3883,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000000
+          },
+          {
+            "type": "walls",
+            "id": 82000048
+          },
+          {
+            "type": "roof",
+            "id": 82000011
+          },
+          {
+            "type": "decoration",
+            "id": 82000058
+          }
+        ]
+      },
+      "builderBaseLeague": {
+        "id": 44000027,
+        "name": "Player_0014"
+      }
+    },
+    {
+      "tag": "#8JVL2VJ2",
+      "name": "Player_0015",
+      "role": "coLeader",
+      "townHallLevel": 18,
+      "expLevel": 222,
+      "league": {
+        "id": 29000022,
+        "name": "Player_0006",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "tiny": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "leagueTier": {
+        "id": 105000033,
+        "name": "Player_0013",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "trophies": 105,
+      "builderBaseTrophies": 4529,
+      "clanRank": 4,
+      "previousClanRank": 3,
+      "donations": 1028,
+      "donationsReceived": 1603,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000004
+          },
+          {
+            "type": "walls",
+            "id": 82000048
+          },
+          {
+            "type": "roof",
+            "id": 82000035
+          },
+          {
+            "type": "decoration",
+            "id": 82000066
+          }
+        ]
+      },
+      "builderBaseLeague": {
+        "id": 44000032,
+        "name": "Player_0016"
+      }
+    },
+    {
+      "tag": "#YJRVYRYJ",
+      "name": "Player_0017",
+      "role": "admin",
+      "townHallLevel": 18,
+      "expLevel": 212,
+      "league": {
+        "id": 29000000,
+        "name": "Player_0012",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "tiny": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "leagueTier": {
+        "id": 105000033,
+        "name": "Player_0013",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "trophies": 0,
+      "builderBaseTrophies": 1993,
+      "clanRank": 5,
+      "previousClanRank": 0,
+      "donations": 493,
+      "donationsReceived": 333,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000001
+          },
+          {
+            "type": "walls",
+            "id": 82000049
+          },
+          {
+            "type": "roof",
+            "id": 82000017
+          },
+          {
+            "type": "decoration",
+            "id": 82000062
+          }
+        ]
+      },
+      "builderBaseLeague": {
+        "id": 44000019,
+        "name": "Player_0018"
+      }
+    },
+    {
+      "tag": "#Y99LQQU0",
+      "name": "Player_0019",
+      "role": "admin",
+      "townHallLevel": 18,
+      "expLevel": 156,
+      "league": {
+        "id": 29000000,
+        "name": "Player_0012",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "tiny": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "leagueTier": {
+        "id": 105000033,
+        "name": "Player_0013",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "trophies": 0,
+      "builderBaseTrophies": 2323,
+      "clanRank": 6,
+      "previousClanRank": 6,
+      "donations": 3221,
+      "donationsReceived": 2599,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000002
+          },
+          {
+            "type": "walls",
+            "id": 82000128
+          },
+          {
+            "type": "roof",
+            "id": 82000126
+          },
+          {
+            "type": "decoration",
+            "id": 82000066
+          }
+        ]
+      },
+      "builderBaseLeague": {
+        "id": 44000021,
+        "name": "Player_0020"
+      }
+    },
+    {
+      "tag": "#8JRURYPG",
+      "name": "Player_0021",
+      "role": "admin",
+      "townHallLevel": 17,
+      "expLevel": 167,
+      "league": {
+        "id": 29000000,
+        "name": "Player_0012",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "tiny": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "leagueTier": {
+        "id": 105000033,
+        "name": "Player_0013",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "trophies": 0,
+      "builderBaseTrophies": 3046,
+      "clanRank": 7,
+      "previousClanRank": 7,
+      "donations": 4058,
+      "donationsReceived": 2014,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000002
+          },
+          {
+            "type": "walls",
+            "id": 82000128
+          },
+          {
+            "type": "roof",
+            "id": 82000126
+          },
+          {
+            "type": "decoration",
+            "id": 82000066
+          }
+        ]
+      },
+      "builderBaseLeague": {
+        "id": 44000025,
+        "name": "Player_0022"
+      }
+    },
+    {
+      "tag": "#UPRP9VRR",
+      "name": "Player_0023",
+      "role": "admin",
+      "townHallLevel": 17,
+      "expLevel": 219,
+      "league": {
+        "id": 29000000,
+        "name": "Player_0012",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "tiny": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "leagueTier": {
+        "id": 105000033,
+        "name": "Player_0013",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "trophies": 0,
+      "builderBaseTrophies": 2983,
+      "clanRank": 8,
+      "previousClanRank": 8,
+      "donations": 2546,
+      "donationsReceived": 1961,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000002
+          },
+          {
+            "type": "walls",
+            "id": 82000052
+          },
+          {
+            "type": "roof",
+            "id": 82000032
+          },
+          {
+            "type": "decoration",
+            "id": 82000064
+          }
+        ]
+      },
+      "builderBaseLeague": {
+        "id": 44000024,
+        "name": "Player_0024"
+      }
+    },
+    {
+      "tag": "#9Q80R0JC",
+      "name": "Player_0025",
+      "role": "admin",
+      "townHallLevel": 18,
+      "expLevel": 217,
+      "league": {
+        "id": 29000000,
+        "name": "Player_0012",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "tiny": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "leagueTier": {
+        "id": 105000033,
+        "name": "Player_0013",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "trophies": 0,
+      "builderBaseTrophies": 4421,
+      "clanRank": 9,
+      "previousClanRank": 9,
+      "donations": 4821,
+      "donationsReceived": 0,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000004
+          },
+          {
+            "type": "walls",
+            "id": 82000128
+          },
+          {
+            "type": "roof",
+            "id": 82000126
+          },
+          {
+            "type": "decoration",
+            "id": 82000068
+          }
+        ]
+      },
+      "builderBaseLeague": {
+        "id": 44000032,
+        "name": "Player_0016"
+      }
+    },
+    {
+      "tag": "#R99R0CGR",
+      "name": "Player_0026",
+      "role": "coLeader",
+      "townHallLevel": 17,
+      "expLevel": 218,
+      "league": {
+        "id": 29000018,
+        "name": "Player_0027",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "tiny": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "leagueTier": {
+        "id": 105000032,
+        "name": "Player_0028",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "trophies": 734,
+      "builderBaseTrophies": 3262,
+      "clanRank": 10,
+      "previousClanRank": 11,
+      "donations": 1792,
+      "donationsReceived": 119,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000086
+          },
+          {
+            "type": "walls",
+            "id": 82000140
+          },
+          {
+            "type": "roof",
+            "id": 82000037
+          },
+          {
+            "type": "decoration",
+            "id": 82000066
+          }
+        ]
+      },
+      "builderBaseLeague": {
+        "id": 44000026,
+        "name": "Player_0029"
+      }
+    },
+    {
+      "tag": "#V98YLY9R",
+      "name": "Player_0030",
+      "role": "member",
+      "townHallLevel": 16,
+      "expLevel": 180,
+      "league": {
+        "id": 29000000,
+        "name": "Player_0012",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "tiny": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "leagueTier": {
+        "id": 105000032,
+        "name": "Player_0028",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "trophies": 639,
+      "builderBaseTrophies": 2956,
+      "clanRank": 11,
+      "previousClanRank": 10,
+      "donations": 195,
+      "donationsReceived": 50,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000086
+          },
+          {
+            "type": "walls",
+            "id": 82000140
+          },
+          {
+            "type": "roof",
+            "id": 82000037
+          },
+          {
+            "type": "decoration",
+            "id": 82000066
+          }
+        ]
+      },
+      "builderBaseLeague": {
+        "id": 44000024,
+        "name": "Player_0024"
+      }
+    },
+    {
+      "tag": "#UPQ2R000",
+      "name": "Player_0031",
+      "role": "member",
+      "townHallLevel": 17,
+      "expLevel": 171,
+      "league": {
+        "id": 29000016,
+        "name": "Player_0032",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "tiny": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "leagueTier": {
+        "id": 105000032,
+        "name": "Player_0028",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "trophies": 313,
+      "builderBaseTrophies": 1855,
+      "clanRank": 12,
+      "previousClanRank": 0,
+      "donations": 0,
+      "donationsReceived": 0,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000002
+          },
+          {
+            "type": "walls",
+            "id": 82000049
+          },
+          {
+            "type": "roof",
+            "id": 82000031
+          },
+          {
+            "type": "decoration",
+            "id": 82000064
+          }
+        ]
+      },
+      "builderBaseLeague": {
+        "id": 44000018,
+        "name": "Player_0033"
+      }
+    },
+    {
+      "tag": "#PR2JC29C",
+      "name": "Player_0034",
+      "role": "admin",
+      "townHallLevel": 17,
+      "expLevel": 221,
+      "league": {
+        "id": 29000000,
+        "name": "Player_0012",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "tiny": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "leagueTier": {
+        "id": 105000032,
+        "name": "Player_0028",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "trophies": 0,
+      "builderBaseTrophies": 4432,
+      "clanRank": 13,
+      "previousClanRank": 12,
+      "donations": 1042,
+      "donationsReceived": 612,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000004
+          },
+          {
+            "type": "walls",
+            "id": 82000052
+          },
+          {
+            "type": "roof",
+            "id": 82000126
+          },
+          {
+            "type": "decoration",
+            "id": 82000064
+          }
+        ]
+      },
+      "builderBaseLeague": {
+        "id": 44000032,
+        "name": "Player_0016"
+      }
+    },
+    {
+      "tag": "#RCG2CYQG",
+      "name": "Player_0035",
+      "role": "member",
+      "townHallLevel": 15,
+      "expLevel": 207,
+      "league": {
+        "id": 29000000,
+        "name": "Player_0012",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "tiny": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "leagueTier": {
+        "id": 105000031,
+        "name": "Player_0036",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "trophies": 620,
+      "builderBaseTrophies": 4439,
+      "clanRank": 14,
+      "previousClanRank": 0,
+      "donations": 199,
+      "donationsReceived": 164,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000006
+          },
+          {
+            "type": "walls",
+            "id": 82000055
+          },
+          {
+            "type": "roof",
+            "id": 82000015
+          },
+          {
+            "type": "decoration",
+            "id": 82000059
+          }
+        ]
+      },
+      "builderBaseLeague": {
+        "id": 44000032,
+        "name": "Player_0016"
+      }
+    },
+    {
+      "tag": "#0L022GGV",
+      "name": "Player_0037",
+      "role": "member",
+      "townHallLevel": 16,
+      "expLevel": 195,
+      "league": {
+        "id": 29000000,
+        "name": "Player_0012",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "tiny": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "leagueTier": {
+        "id": 105000031,
+        "name": "Player_0036",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "trophies": 14,
+      "builderBaseTrophies": 3118,
+      "clanRank": 15,
+      "previousClanRank": 14,
+      "donations": 1885,
+      "donationsReceived": 0,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000004
+          },
+          {
+            "type": "walls",
+            "id": 82000049
+          },
+          {
+            "type": "roof",
+            "id": 82000027
+          },
+          {
+            "type": "decoration",
+            "id": 82000062
+          }
+        ]
+      },
+      "builderBaseLeague": {
+        "id": 44000025,
+        "name": "Player_0022"
+      }
+    },
+    {
+      "tag": "#90U899YR",
+      "name": "Player_0038",
+      "role": "member",
+      "townHallLevel": 17,
+      "expLevel": 184,
+      "league": {
+        "id": 29000000,
+        "name": "Player_0012",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "tiny": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "leagueTier": {
+        "id": 105000031,
+        "name": "Player_0036",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "trophies": 0,
+      "builderBaseTrophies": 1902,
+      "clanRank": 16,
+      "previousClanRank": 15,
+      "donations": 1956,
+      "donationsReceived": 1933,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000002
+          },
+          {
+            "type": "walls",
+            "id": 82000128
+          },
+          {
+            "type": "roof",
+            "id": 82000126
+          },
+          {
+            "type": "decoration",
+            "id": 82000064
+          }
+        ]
+      },
+      "builderBaseLeague": {
+        "id": 44000019,
+        "name": "Player_0018"
+      }
+    },
+    {
+      "tag": "#CPPJLR9C",
+      "name": "Player_0039",
+      "role": "admin",
+      "townHallLevel": 16,
+      "expLevel": 186,
+      "league": {
+        "id": 29000014,
+        "name": "Player_0004",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "tiny": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "leagueTier": {
+        "id": 105000031,
+        "name": "Player_0036",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "trophies": 0,
+      "builderBaseTrophies": 2865,
+      "clanRank": 17,
+      "previousClanRank": 16,
+      "donations": 349,
+      "donationsReceived": 361,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000129
+          },
+          {
+            "type": "walls",
+            "id": 82000128
+          },
+          {
+            "type": "roof",
+            "id": 82000041
+          },
+          {
+            "type": "decoration",
+            "id": 82000131
+          }
+        ]
+      },
+      "builderBaseLeague": {
+        "id": 44000024,
+        "name": "Player_0024"
+      }
+    },
+    {
+      "tag": "#LYUQJ99P",
+      "name": "Player_0040",
+      "role": "admin",
+      "townHallLevel": 17,
+      "expLevel": 161,
+      "league": {
+        "id": 29000000,
+        "name": "Player_0012",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "tiny": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "leagueTier": {
+        "id": 105000031,
+        "name": "Player_0036",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "trophies": 0,
+      "builderBaseTrophies": 1656,
+      "clanRank": 18,
+      "previousClanRank": 17,
+      "donations": 846,
+      "donationsReceived": 897,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000002
+          },
+          {
+            "type": "walls",
+            "id": 82000140
+          },
+          {
+            "type": "roof",
+            "id": 82000024
+          },
+          {
+            "type": "decoration",
+            "id": 82000064
+          }
+        ]
+      },
+      "builderBaseLeague": {
+        "id": 44000016,
+        "name": "Player_0041"
+      }
+    },
+    {
+      "tag": "#09LCG28R",
+      "name": "Player_0042",
+      "role": "admin",
+      "townHallLevel": 17,
+      "expLevel": 212,
+      "league": {
+        "id": 29000000,
+        "name": "Player_0012",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "tiny": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "leagueTier": {
+        "id": 105000031,
+        "name": "Player_0036",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "trophies": 0,
+      "builderBaseTrophies": 3512,
+      "clanRank": 19,
+      "previousClanRank": 18,
+      "donations": 2334,
+      "donationsReceived": 374,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000002
+          },
+          {
+            "type": "walls",
+            "id": 82000053
+          },
+          {
+            "type": "roof",
+            "id": 82000010
+          },
+          {
+            "type": "decoration",
+            "id": 82000063
+          }
+        ]
+      },
+      "builderBaseLeague": {
+        "id": 44000027,
+        "name": "Player_0014"
+      }
+    },
+    {
+      "tag": "#GYJ9U808",
+      "name": "Player_0043",
+      "role": "member",
+      "townHallLevel": 16,
+      "expLevel": 200,
+      "league": {
+        "id": 29000000,
+        "name": "Player_0012",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "tiny": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "leagueTier": {
+        "id": 105000030,
+        "name": "Player_0044",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "trophies": 124,
+      "builderBaseTrophies": 4189,
+      "clanRank": 20,
+      "previousClanRank": 20,
+      "donations": 1447,
+      "donationsReceived": 2161,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000002
+          },
+          {
+            "type": "walls",
+            "id": 82000049
+          },
+          {
+            "type": "roof",
+            "id": 82000010
+          },
+          {
+            "type": "decoration",
+            "id": 82000060
+          }
+        ]
+      },
+      "builderBaseLeague": {
+        "id": 44000030,
+        "name": "Player_0045"
+      }
+    },
+    {
+      "tag": "#QCQL22VV",
+      "name": "Player_0046",
+      "role": "member",
+      "townHallLevel": 16,
+      "expLevel": 185,
+      "league": {
+        "id": 29000000,
+        "name": "Player_0012",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "tiny": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "leagueTier": {
+        "id": 105000030,
+        "name": "Player_0044",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "trophies": 115,
+      "builderBaseTrophies": 2913,
+      "clanRank": 21,
+      "previousClanRank": 0,
+      "donations": 199,
+      "donationsReceived": 205,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000002
+          },
+          {
+            "type": "walls",
+            "id": 82000052
+          },
+          {
+            "type": "roof",
+            "id": 82000023
+          },
+          {
+            "type": "decoration",
+            "id": 82000066
+          }
+        ]
+      },
+      "builderBaseLeague": {
+        "id": 44000024,
+        "name": "Player_0024"
+      }
+    },
+    {
+      "tag": "#VG0CPGC9",
+      "name": "Player_0047",
+      "role": "member",
+      "townHallLevel": 17,
+      "expLevel": 172,
+      "league": {
+        "id": 29000000,
+        "name": "Player_0012",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "tiny": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "leagueTier": {
+        "id": 105000029,
+        "name": "Player_0048",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "trophies": 524,
+      "builderBaseTrophies": 2668,
+      "clanRank": 22,
+      "previousClanRank": 21,
+      "donations": 851,
+      "donationsReceived": 669,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000000
+          },
+          {
+            "type": "walls",
+            "id": 82000049
+          },
+          {
+            "type": "roof",
+            "id": 82000008
+          },
+          {
+            "type": "decoration",
+            "id": 82000065
+          }
+        ]
+      },
+      "builderBaseLeague": {
+        "id": 44000023,
+        "name": "Player_0049"
+      }
+    },
+    {
+      "tag": "#2JCV28VU",
+      "name": "Player_0050",
+      "role": "member",
+      "townHallLevel": 16,
+      "expLevel": 189,
+      "league": {
+        "id": 29000000,
+        "name": "Player_0012",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "tiny": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "leagueTier": {
+        "id": 105000029,
+        "name": "Player_0048",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "trophies": 521,
+      "builderBaseTrophies": 3910,
+      "clanRank": 23,
+      "previousClanRank": 26,
+      "donations": 241,
+      "donationsReceived": 0,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000000
+          },
+          {
+            "type": "walls",
+            "id": 82000048
+          },
+          {
+            "type": "roof",
+            "id": 82000045
+          },
+          {
+            "type": "decoration",
+            "id": 82000060
+          }
+        ]
+      },
+      "builderBaseLeague": {
+        "id": 44000029,
+        "name": "Player_0008"
+      }
+    },
+    {
+      "tag": "#PP2CRCU2",
+      "name": "Player_0051",
+      "role": "member",
+      "townHallLevel": 17,
+      "expLevel": 158,
+      "league": {
+        "id": 29000011,
+        "name": "Player_0052",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "tiny": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "leagueTier": {
+        "id": 105000029,
+        "name": "Player_0048",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "trophies": 396,
+      "builderBaseTrophies": 2616,
+      "clanRank": 24,
+      "previousClanRank": 22,
+      "donations": 1185,
+      "donationsReceived": 113,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000002
+          },
+          {
+            "type": "walls",
+            "id": 82000140
+          },
+          {
+            "type": "roof",
+            "id": 82000032
+          },
+          {
+            "type": "decoration",
+            "id": 82000061
+          }
+        ]
+      },
+      "builderBaseLeague": {
+        "id": 44000023,
+        "name": "Player_0049"
+      }
+    },
+    {
+      "tag": "#RVVQ8UG8",
+      "name": "Player_0053",
+      "role": "member",
+      "townHallLevel": 15,
+      "expLevel": 151,
+      "league": {
+        "id": 29000000,
+        "name": "Player_0012",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "tiny": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "leagueTier": {
+        "id": 105000029,
+        "name": "Player_0048",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "trophies": 306,
+      "builderBaseTrophies": 2334,
+      "clanRank": 25,
+      "previousClanRank": 23,
+      "donations": 96,
+      "donationsReceived": 0,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000000
+          },
+          {
+            "type": "walls",
+            "id": 82000048
+          },
+          {
+            "type": "roof",
+            "id": 82000009
+          },
+          {
+            "type": "decoration",
+            "id": 82000058
+          }
+        ]
+      },
+      "builderBaseLeague": {
+        "id": 44000021,
+        "name": "Player_0020"
+      }
+    },
+    {
+      "tag": "#8GCU80UG",
+      "name": "Player_0054",
+      "role": "admin",
+      "townHallLevel": 18,
+      "expLevel": 218,
+      "league": {
+        "id": 29000000,
+        "name": "Player_0012",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "tiny": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "leagueTier": {
+        "id": 105000029,
+        "name": "Player_0048",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "trophies": 93,
+      "builderBaseTrophies": 4824,
+      "clanRank": 26,
+      "previousClanRank": 24,
+      "donations": 448,
+      "donationsReceived": 122,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000002
+          },
+          {
+            "type": "walls",
+            "id": 82000052
+          },
+          {
+            "type": "roof",
+            "id": 82000082
+          },
+          {
+            "type": "decoration",
+            "id": 82000066
+          }
+        ]
+      },
+      "builderBaseLeague": {
+        "id": 44000034,
+        "name": "Player_0055"
+      }
+    },
+    {
+      "tag": "#PR99LY22",
+      "name": "Player_0056",
+      "role": "admin",
+      "townHallLevel": 16,
+      "expLevel": 167,
+      "league": {
+        "id": 29000000,
+        "name": "Player_0012",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "tiny": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "leagueTier": {
+        "id": 105000029,
+        "name": "Player_0048",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "trophies": 13,
+      "builderBaseTrophies": 3029,
+      "clanRank": 27,
+      "previousClanRank": 27,
+      "donations": 232,
+      "donationsReceived": 0,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000006
+          },
+          {
+            "type": "walls",
+            "id": 82000128
+          },
+          {
+            "type": "roof",
+            "id": 82000126
+          },
+          {
+            "type": "decoration",
+            "id": 82000066
+          }
+        ]
+      },
+      "builderBaseLeague": {
+        "id": 44000025,
+        "name": "Player_0022"
+      }
+    },
+    {
+      "tag": "#QPL8QCLU",
+      "name": "Player_0057",
+      "role": "member",
+      "townHallLevel": 16,
+      "expLevel": 181,
+      "league": {
+        "id": 29000016,
+        "name": "Player_0032",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "tiny": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "leagueTier": {
+        "id": 105000029,
+        "name": "Player_0048",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "trophies": 12,
+      "builderBaseTrophies": 2892,
+      "clanRank": 28,
+      "previousClanRank": 25,
+      "donations": 1,
+      "donationsReceived": 0,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000001
+          },
+          {
+            "type": "walls",
+            "id": 82000049
+          },
+          {
+            "type": "roof",
+            "id": 82000036
+          },
+          {
+            "type": "decoration",
+            "id": 82000064
+          }
+        ]
+      },
+      "builderBaseLeague": {
+        "id": 44000024,
+        "name": "Player_0024"
+      }
+    },
+    {
+      "tag": "#JJ2PG0C2",
+      "name": "Player_0058",
+      "role": "member",
+      "townHallLevel": 16,
+      "expLevel": 180,
+      "league": {
+        "id": 29000000,
+        "name": "Player_0012",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "tiny": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "leagueTier": {
+        "id": 105000028,
+        "name": "Player_0059",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "trophies": 73,
+      "builderBaseTrophies": 4230,
+      "clanRank": 29,
+      "previousClanRank": 30,
+      "donations": 459,
+      "donationsReceived": 230,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000000
+          },
+          {
+            "type": "walls",
+            "id": 82000048
+          },
+          {
+            "type": "roof",
+            "id": 82000010
+          },
+          {
+            "type": "decoration",
+            "id": 82000063
+          }
+        ]
+      },
+      "builderBaseLeague": {
+        "id": 44000031,
+        "name": "Player_0060"
+      }
+    },
+    {
+      "tag": "#0VQUJGJJ",
+      "name": "Player_0061",
+      "role": "member",
+      "townHallLevel": 16,
+      "expLevel": 125,
+      "league": {
+        "id": 29000000,
+        "name": "Player_0012",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "tiny": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "leagueTier": {
+        "id": 105000028,
+        "name": "Player_0059",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "trophies": 36,
+      "builderBaseTrophies": 2113,
+      "clanRank": 30,
+      "previousClanRank": 28,
+      "donations": 63,
+      "donationsReceived": 82,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000001
+          },
+          {
+            "type": "walls",
+            "id": 82000140
+          },
+          {
+            "type": "roof",
+            "id": 82000132
+          },
+          {
+            "type": "decoration",
+            "id": 82000063
+          }
+        ]
+      },
+      "builderBaseLeague": {
+        "id": 44000020,
+        "name": "Player_0062"
+      }
+    },
+    {
+      "tag": "#U9VP92Y0",
+      "name": "Player_0063",
+      "role": "member",
+      "townHallLevel": 17,
+      "expLevel": 171,
+      "league": {
+        "id": 29000000,
+        "name": "Player_0012",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "tiny": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "leagueTier": {
+        "id": 105000028,
+        "name": "Player_0059",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "trophies": 0,
+      "builderBaseTrophies": 3587,
+      "clanRank": 31,
+      "previousClanRank": 29,
+      "donations": 4,
+      "donationsReceived": 1112,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000001
+          },
+          {
+            "type": "walls",
+            "id": 82000053
+          },
+          {
+            "type": "roof",
+            "id": 82000017
+          },
+          {
+            "type": "decoration",
+            "id": 82000064
+          }
+        ]
+      },
+      "builderBaseLeague": {
+        "id": 44000027,
+        "name": "Player_0014"
+      }
+    },
+    {
+      "tag": "#CCJ2VPLP",
+      "name": "Player_0064",
+      "role": "member",
+      "townHallLevel": 16,
+      "expLevel": 137,
+      "league": {
+        "id": 29000000,
+        "name": "Player_0012",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "tiny": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "leagueTier": {
+        "id": 105000027,
+        "name": "Player_0065",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "trophies": 389,
+      "builderBaseTrophies": 2892,
+      "clanRank": 32,
+      "previousClanRank": 31,
+      "donations": 421,
+      "donationsReceived": 2221,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000001
+          },
+          {
+            "type": "walls",
+            "id": 82000048
+          },
+          {
+            "type": "roof",
+            "id": 82000010
+          },
+          {
+            "type": "decoration",
+            "id": 82000062
+          }
+        ]
+      },
+      "builderBaseLeague": {
+        "id": 44000024,
+        "name": "Player_0024"
+      }
+    },
+    {
+      "tag": "#JLY29PVV",
+      "name": "Player_0066",
+      "role": "member",
+      "townHallLevel": 17,
+      "expLevel": 206,
+      "league": {
+        "id": 29000014,
+        "name": "Player_0004",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "tiny": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "leagueTier": {
+        "id": 105000027,
+        "name": "Player_0065",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "trophies": 243,
+      "builderBaseTrophies": 3040,
+      "clanRank": 33,
+      "previousClanRank": 32,
+      "donations": 1946,
+      "donationsReceived": 8492,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000006
+          },
+          {
+            "type": "walls",
+            "id": 82000049
+          },
+          {
+            "type": "roof",
+            "id": 82000046
+          },
+          {
+            "type": "decoration",
+            "id": 82000067
+          }
+        ]
+      },
+      "builderBaseLeague": {
+        "id": 44000025,
+        "name": "Player_0022"
+      }
+    },
+    {
+      "tag": "#0Y9UGRCU",
+      "name": "Player_0067",
+      "role": "member",
+      "townHallLevel": 18,
+      "expLevel": 237,
+      "league": {
+        "id": 29000021,
+        "name": "Player_0068",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "tiny": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "leagueTier": {
+        "id": 105000027,
+        "name": "Player_0065",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "trophies": 0,
+      "builderBaseTrophies": 3815,
+      "clanRank": 34,
+      "previousClanRank": 0,
+      "donations": 45,
+      "donationsReceived": 0,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000002
+          },
+          {
+            "type": "walls",
+            "id": 82000049
+          },
+          {
+            "type": "roof",
+            "id": 82000110
+          },
+          {
+            "type": "decoration",
+            "id": 82000066
+          }
+        ]
+      },
+      "builderBaseLeague": {
+        "id": 44000029,
+        "name": "Player_0008"
+      }
+    },
+    {
+      "tag": "#RRPUJCJ2",
+      "name": "Player_0069",
+      "role": "admin",
+      "townHallLevel": 16,
+      "expLevel": 150,
+      "league": {
+        "id": 29000000,
+        "name": "Player_0012",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "tiny": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "leagueTier": {
+        "id": 105000026,
+        "name": "Player_0070",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "trophies": 132,
+      "builderBaseTrophies": 2076,
+      "clanRank": 35,
+      "previousClanRank": 33,
+      "donations": 148,
+      "donationsReceived": 894,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000000
+          },
+          {
+            "type": "walls",
+            "id": 82000052
+          },
+          {
+            "type": "roof",
+            "id": 82000008
+          },
+          {
+            "type": "decoration",
+            "id": 82000058
+          }
+        ]
+      },
+      "builderBaseLeague": {
+        "id": 44000020,
+        "name": "Player_0062"
+      }
+    },
+    {
+      "tag": "#PU900GGL",
+      "name": "Player_0071",
+      "role": "member",
+      "townHallLevel": 16,
+      "expLevel": 128,
+      "league": {
+        "id": 29000000,
+        "name": "Player_0012",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "tiny": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "leagueTier": {
+        "id": 105000026,
+        "name": "Player_0070",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "trophies": 40,
+      "builderBaseTrophies": 2291,
+      "clanRank": 36,
+      "previousClanRank": 35,
+      "donations": 1144,
+      "donationsReceived": 2097,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000000
+          },
+          {
+            "type": "walls",
+            "id": 82000048
+          },
+          {
+            "type": "roof",
+            "id": 82000016
+          },
+          {
+            "type": "decoration",
+            "id": 82000058
+          }
+        ]
+      },
+      "builderBaseLeague": {
+        "id": 44000021,
+        "name": "Player_0020"
+      }
+    },
+    {
+      "tag": "#9JJG8JPV",
+      "name": "Player_0072",
+      "role": "admin",
+      "townHallLevel": 18,
+      "expLevel": 218,
+      "league": {
+        "id": 29000000,
+        "name": "Player_0012",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "tiny": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "leagueTier": {
+        "id": 105000026,
+        "name": "Player_0070",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "trophies": 0,
+      "builderBaseTrophies": 2214,
+      "clanRank": 37,
+      "previousClanRank": 34,
+      "donations": 222,
+      "donationsReceived": 19,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000002
+          },
+          {
+            "type": "walls",
+            "id": 82000050
+          },
+          {
+            "type": "roof",
+            "id": 82000085
+          },
+          {
+            "type": "decoration",
+            "id": 82000068
+          }
+        ]
+      },
+      "builderBaseLeague": {
+        "id": 44000021,
+        "name": "Player_0020"
+      }
+    },
+    {
+      "tag": "#Y2Y2JJG0",
+      "name": "Player_0073",
+      "role": "admin",
+      "townHallLevel": 16,
+      "expLevel": 159,
+      "league": {
+        "id": 29000000,
+        "name": "Player_0012",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "tiny": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "leagueTier": {
+        "id": 105000025,
+        "name": "Player_0074",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "trophies": 58,
+      "builderBaseTrophies": 2465,
+      "clanRank": 38,
+      "previousClanRank": 36,
+      "donations": 186,
+      "donationsReceived": 1185,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000002
+          },
+          {
+            "type": "walls",
+            "id": 82000049
+          },
+          {
+            "type": "roof",
+            "id": 82000015
+          },
+          {
+            "type": "decoration",
+            "id": 82000062
+          }
+        ]
+      },
+      "builderBaseLeague": {
+        "id": 44000022,
+        "name": "Player_0075"
+      }
+    },
+    {
+      "tag": "#LCG0YJJ2",
+      "name": "Player_0076",
+      "role": "admin",
+      "townHallLevel": 16,
+      "expLevel": 97,
+      "league": {
+        "id": 29000000,
+        "name": "Player_0012",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "tiny": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "leagueTier": {
+        "id": 105000025,
+        "name": "Player_0074",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "trophies": 0,
+      "builderBaseTrophies": 2372,
+      "clanRank": 39,
+      "previousClanRank": 38,
+      "donations": 1518,
+      "donationsReceived": 827,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000002
+          },
+          {
+            "type": "walls",
+            "id": 82000049
+          },
+          {
+            "type": "roof",
+            "id": 82000032
+          },
+          {
+            "type": "decoration",
+            "id": 82000063
+          }
+        ]
+      },
+      "builderBaseLeague": {
+        "id": 44000021,
+        "name": "Player_0020"
+      }
+    },
+    {
+      "tag": "#0QL02UJ0",
+      "name": "Player_0077",
+      "role": "admin",
+      "townHallLevel": 15,
+      "expLevel": 134,
+      "league": {
+        "id": 29000000,
+        "name": "Player_0012",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "tiny": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "leagueTier": {
+        "id": 105000023,
+        "name": "Player_0078",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "trophies": 67,
+      "builderBaseTrophies": 2038,
+      "clanRank": 40,
+      "previousClanRank": 40,
+      "donations": 30,
+      "donationsReceived": 501,
+      "builderBaseLeague": {
+        "id": 44000020,
+        "name": "Player_0062"
+      }
+    },
+    {
+      "tag": "#PC89VPYP",
+      "name": "Player_0079",
+      "role": "admin",
+      "townHallLevel": 16,
+      "expLevel": 172,
+      "league": {
+        "id": 29000017,
+        "name": "Player_0080",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "tiny": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "leagueTier": {
+        "id": 105000023,
+        "name": "Player_0078",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "trophies": 0,
+      "builderBaseTrophies": 2248,
+      "clanRank": 41,
+      "previousClanRank": 41,
+      "donations": 104,
+      "donationsReceived": 529,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000002
+          },
+          {
+            "type": "walls",
+            "id": 82000049
+          },
+          {
+            "type": "roof",
+            "id": 82000016
+          },
+          {
+            "type": "decoration",
+            "id": 82000060
+          }
+        ]
+      },
+      "builderBaseLeague": {
+        "id": 44000021,
+        "name": "Player_0020"
+      }
+    },
+    {
+      "tag": "#CRU8VQLC",
+      "name": "Player_0081",
+      "role": "member",
+      "townHallLevel": 16,
+      "expLevel": 92,
+      "league": {
+        "id": 29000000,
+        "name": "Player_0012",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "tiny": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "leagueTier": {
+        "id": 105000021,
+        "name": "Player_0082",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "trophies": 63,
+      "builderBaseTrophies": 2067,
+      "clanRank": 42,
+      "previousClanRank": 43,
+      "donations": 54,
+      "donationsReceived": 66,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000000
+          },
+          {
+            "type": "walls",
+            "id": 82000048
+          },
+          {
+            "type": "roof",
+            "id": 82000011
+          },
+          {
+            "type": "decoration",
+            "id": 82000058
+          }
+        ]
+      },
+      "builderBaseLeague": {
+        "id": 44000020,
+        "name": "Player_0062"
+      }
+    },
+    {
+      "tag": "#CV8P2JJV",
+      "name": "Player_0083",
+      "role": "member",
+      "townHallLevel": 16,
+      "expLevel": 173,
+      "league": {
+        "id": 29000013,
+        "name": "Player_0084",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "tiny": "https://synthetic.example.com/badge/placeholder.png",
+          "medium": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "leagueTier": {
+        "id": 105000021,
+        "name": "Player_0082",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "trophies": 0,
+      "builderBaseTrophies": 2669,
+      "clanRank": 43,
+      "previousClanRank": 42,
+      "donations": 127,
+      "donationsReceived": 408,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000084
+          },
+          {
+            "type": "walls",
+            "id": 82000052
+          },
+          {
+            "type": "roof",
+            "id": 82000032
+          },
+          {
+            "type": "decoration",
+            "id": 82000064
+          }
+        ]
+      },
+      "builderBaseLeague": {
+        "id": 44000023,
+        "name": "Player_0049"
+      }
+    },
+    {
+      "tag": "#VYCCVQVU",
+      "name": "Player_0085",
+      "role": "member",
+      "townHallLevel": 16,
+      "expLevel": 159,
+      "league": {
+        "id": 29000000,
+        "name": "Player_0012",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "tiny": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "leagueTier": {
+        "id": 105000020,
+        "name": "Player_0086",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "trophies": 40,
+      "builderBaseTrophies": 2311,
+      "clanRank": 44,
+      "previousClanRank": 44,
+      "donations": 0,
+      "donationsReceived": 0,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000002
+          },
+          {
+            "type": "walls",
+            "id": 82000049
+          },
+          {
+            "type": "roof",
+            "id": 82000016
+          },
+          {
+            "type": "decoration",
+            "id": 82000058
+          }
+        ]
+      },
+      "builderBaseLeague": {
+        "id": 44000021,
+        "name": "Player_0020"
+      }
+    },
+    {
+      "tag": "#QG902RVR",
+      "name": "Player_0087",
+      "role": "member",
+      "townHallLevel": 16,
+      "expLevel": 143,
+      "league": {
+        "id": 29000000,
+        "name": "Player_0012",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "tiny": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "leagueTier": {
+        "id": 105000020,
+        "name": "Player_0086",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "trophies": 0,
+      "builderBaseTrophies": 2620,
+      "clanRank": 45,
+      "previousClanRank": 45,
+      "donations": 1,
+      "donationsReceived": 0,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000006
+          },
+          {
+            "type": "walls",
+            "id": 82000055
+          },
+          {
+            "type": "roof",
+            "id": 82000046
+          },
+          {
+            "type": "decoration",
+            "id": 82000068
+          }
+        ]
+      },
+      "builderBaseLeague": {
+        "id": 44000023,
+        "name": "Player_0049"
+      }
+    },
+    {
+      "tag": "#0JG22QCC",
+      "name": "Player_0088",
+      "role": "member",
+      "townHallLevel": 15,
+      "expLevel": 176,
+      "league": {
+        "id": 29000000,
+        "name": "Player_0012",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "tiny": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "leagueTier": {
+        "id": 105000019,
+        "name": "Player_0089",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "trophies": 0,
+      "builderBaseTrophies": 3040,
+      "clanRank": 46,
+      "previousClanRank": 46,
+      "donations": 199,
+      "donationsReceived": 5,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000002
+          },
+          {
+            "type": "walls",
+            "id": 82000052
+          },
+          {
+            "type": "roof",
+            "id": 82000034
+          },
+          {
+            "type": "decoration",
+            "id": 82000066
+          }
+        ]
+      },
+      "builderBaseLeague": {
+        "id": 44000025,
+        "name": "Player_0022"
+      }
+    },
+    {
+      "tag": "#VQU0J9C0",
+      "name": "Player_0090",
+      "role": "member",
+      "townHallLevel": 15,
+      "expLevel": 147,
+      "league": {
+        "id": 29000000,
+        "name": "Player_0012",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "tiny": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "leagueTier": {
+        "id": 105000018,
+        "name": "Player_0091",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "trophies": 0,
+      "builderBaseTrophies": 2052,
+      "clanRank": 47,
+      "previousClanRank": 47,
+      "donations": 219,
+      "donationsReceived": 92,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000001
+          },
+          {
+            "type": "walls",
+            "id": 82000140
+          },
+          {
+            "type": "roof",
+            "id": 82000034
+          },
+          {
+            "type": "decoration",
+            "id": 82000066
+          }
+        ]
+      },
+      "builderBaseLeague": {
+        "id": 44000020,
+        "name": "Player_0062"
+      }
+    },
+    {
+      "tag": "#8QVCYCJ2",
+      "name": "Player_0092",
+      "role": "coLeader",
+      "townHallLevel": 15,
+      "expLevel": 202,
+      "league": {
+        "id": 29000000,
+        "name": "Player_0012",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "tiny": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "leagueTier": {
+        "id": 105000017,
+        "name": "Player_0093",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "trophies": 0,
+      "builderBaseTrophies": 2143,
+      "clanRank": 48,
+      "previousClanRank": 48,
+      "donations": 78,
+      "donationsReceived": 0,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000002
+          },
+          {
+            "type": "walls",
+            "id": 82000049
+          },
+          {
+            "type": "roof",
+            "id": 82000016
+          },
+          {
+            "type": "decoration",
+            "id": 82000063
+          }
+        ]
+      },
+      "builderBaseLeague": {
+        "id": 44000020,
+        "name": "Player_0062"
+      }
+    },
+    {
+      "tag": "#898UJVRR",
+      "name": "Player_0094",
+      "role": "member",
+      "townHallLevel": 13,
+      "expLevel": 132,
+      "league": {
+        "id": 29000000,
+        "name": "Player_0012",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "tiny": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "leagueTier": {
+        "id": 105000014,
+        "name": "Player_0095",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "trophies": 283,
+      "builderBaseTrophies": 2478,
+      "clanRank": 49,
+      "previousClanRank": 49,
+      "donations": 892,
+      "donationsReceived": 4742,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000002
+          },
+          {
+            "type": "walls",
+            "id": 82000049
+          },
+          {
+            "type": "roof",
+            "id": 82000017
+          },
+          {
+            "type": "decoration",
+            "id": 82000062
+          }
+        ]
+      },
+      "builderBaseLeague": {
+        "id": 44000022,
+        "name": "Player_0075"
+      }
+    },
+    {
+      "tag": "#Q0YP9G2C",
+      "name": "Player_0096",
+      "role": "member",
+      "townHallLevel": 13,
+      "expLevel": 122,
+      "league": {
+        "id": 29000000,
+        "name": "Player_0012",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "tiny": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "leagueTier": {
+        "id": 105000013,
+        "name": "Player_0097",
+        "iconUrls": {
+          "small": "https://synthetic.example.com/badge/placeholder.png",
+          "large": "https://synthetic.example.com/badge/placeholder.png"
+        }
+      },
+      "trophies": 364,
+      "builderBaseTrophies": 2327,
+      "clanRank": 50,
+      "previousClanRank": 50,
+      "donations": 510,
+      "donationsReceived": 5656,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000001
+          },
+          {
+            "type": "walls",
+            "id": 82000049
+          },
+          {
+            "type": "roof",
+            "id": 82000017
+          },
+          {
+            "type": "decoration",
+            "id": 82000062
+          }
+        ]
+      },
+      "builderBaseLeague": {
+        "id": 44000021,
+        "name": "Player_0020"
+      }
+    }
+  ],
+  "paging": {
+    "cursors": {}
+  }
+}

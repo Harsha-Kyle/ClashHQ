@@ -1,0 +1,84 @@
+{
+  "capturedAt": "2026-10-21T10:17:43.394Z",
+  "clanTag": "#CVVJPJ8J",
+  "playerTag": null,
+  "results": [
+    {
+      "capabilityId": "clan-info",
+      "endpoint": "/clans/%23CVVJPJ8J",
+      "httpStatus": 200,
+      "outcome": "success",
+      "fieldObserved": true,
+      "fixtureWritten": true,
+      "rejected": false,
+      "messageCount": 0,
+      "error": null
+    },
+    {
+      "capabilityId": "clan-members",
+      "endpoint": "/clans/%23CVVJPJ8J/members",
+      "httpStatus": 200,
+      "outcome": "success",
+      "fieldObserved": true,
+      "fixtureWritten": true,
+      "rejected": false,
+      "messageCount": 0,
+      "error": null
+    },
+    {
+      "capabilityId": "current-war",
+      "endpoint": "/clans/%23CVVJPJ8J/currentwar",
+      "httpStatus": 200,
+      "outcome": "success",
+      "fieldObserved": true,
+      "fixtureWritten": true,
+      "rejected": false,
+      "messageCount": 0,
+      "error": null
+    },
+    {
+      "capabilityId": "war-log",
+      "endpoint": "/clans/%23CVVJPJ8J/warlog",
+      "httpStatus": 200,
+      "outcome": "success",
+      "fieldObserved": true,
+      "fixtureWritten": true,
+      "rejected": false,
+      "messageCount": 0,
+      "error": null
+    },
+    {
+      "capabilityId": "cwl-league-group",
+      "endpoint": "/clans/%23CVVJPJ8J/currentwar/leaguegroup",
+      "httpStatus": 404,
+      "outcome": "failed",
+      "fieldObserved": false,
+      "fixtureWritten": false,
+      "rejected": false,
+      "messageCount": 0,
+      "error": "HTTP 404 — response not recorded (may be private, unavailable, or wrong IP)."
+    },
+    {
+      "capabilityId": "player-profile",
+      "endpoint": "",
+      "httpStatus": 0,
+      "outcome": "skipped",
+      "fieldObserved": false,
+      "fixtureWritten": false,
+      "rejected": false,
+      "messageCount": 1,
+      "error": "No --player-tag provided. Skipping player profile capture."
+    },
+    {
+      "capabilityId": "raid-seasons",
+      "endpoint": "/clans/%23CVVJPJ8J/capitalraidseasons",
+      "httpStatus": 200,
+      "outcome": "success",
+      "fieldObserved": true,
+      "fixtureWritten": true,
+      "rejected": false,
+      "messageCount": 0,
+      "error": null
+    }
+  ]
+}
