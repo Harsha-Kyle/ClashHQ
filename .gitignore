@@ -15,12 +15,17 @@ data/
 !.env.example
 
 # Raw captures (Runtime check also prevents writing inside repo)
-*raw*
+raw/
+*raw-captures*
 captures/
 temp/
 
 # Checkpoint copies (managed locally, never committed)
 checkpoints/
+
+# Audit screenshots
+screenshot-*.png
+screenshot*.png
 
 # Logs & Debug
 logs/
@@ -29,6 +34,9 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
+test-results/
+playwright-report/
+blob-report/
 
 # OS / Editor files
 .DS_Store
